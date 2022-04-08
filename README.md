@@ -1,3 +1,4 @@
 # test
 a test repository of Git！
-Hello oooo hahahahah
+
+There has two brances，and Git file is in master branch
